@@ -28,5 +28,5 @@ GUIが表示され、数字ボタンと演算ボタンで操作できます。
 ### 実行コマンド
 
 ```bash
-python p11-2-correct.py
+python calculator-gui.py
 ```
